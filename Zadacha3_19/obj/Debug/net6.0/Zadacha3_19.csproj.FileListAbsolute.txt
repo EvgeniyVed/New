@@ -1,0 +1,15 @@
+C:\Users\Юджин\Desktop\Все по C#\DZ\Zadacha3_19\bin\Debug\net6.0\Zadacha3_19.exe
+C:\Users\Юджин\Desktop\Все по C#\DZ\Zadacha3_19\bin\Debug\net6.0\Zadacha3_19.deps.json
+C:\Users\Юджин\Desktop\Все по C#\DZ\Zadacha3_19\bin\Debug\net6.0\Zadacha3_19.runtimeconfig.json
+C:\Users\Юджин\Desktop\Все по C#\DZ\Zadacha3_19\bin\Debug\net6.0\Zadacha3_19.dll
+C:\Users\Юджин\Desktop\Все по C#\DZ\Zadacha3_19\bin\Debug\net6.0\Zadacha3_19.pdb
+C:\Users\Юджин\Desktop\Все по C#\DZ\Zadacha3_19\obj\Debug\net6.0\Zadacha3_19.csproj.AssemblyReference.cache
+C:\Users\Юджин\Desktop\Все по C#\DZ\Zadacha3_19\obj\Debug\net6.0\Zadacha3_19.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Юджин\Desktop\Все по C#\DZ\Zadacha3_19\obj\Debug\net6.0\Zadacha3_19.AssemblyInfoInputs.cache
+C:\Users\Юджин\Desktop\Все по C#\DZ\Zadacha3_19\obj\Debug\net6.0\Zadacha3_19.AssemblyInfo.cs
+C:\Users\Юджин\Desktop\Все по C#\DZ\Zadacha3_19\obj\Debug\net6.0\Zadacha3_19.csproj.CoreCompileInputs.cache
+C:\Users\Юджин\Desktop\Все по C#\DZ\Zadacha3_19\obj\Debug\net6.0\Zadacha3_19.dll
+C:\Users\Юджин\Desktop\Все по C#\DZ\Zadacha3_19\obj\Debug\net6.0\refint\Zadacha3_19.dll
+C:\Users\Юджин\Desktop\Все по C#\DZ\Zadacha3_19\obj\Debug\net6.0\Zadacha3_19.pdb
+C:\Users\Юджин\Desktop\Все по C#\DZ\Zadacha3_19\obj\Debug\net6.0\Zadacha3_19.genruntimeconfig.cache
+C:\Users\Юджин\Desktop\Все по C#\DZ\Zadacha3_19\obj\Debug\net6.0\ref\Zadacha3_19.dll

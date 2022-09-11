@@ -1,0 +1,15 @@
+C:\Users\Юджин\Desktop\Все по C#\DZ\Zadacha3_21\obj\Debug\net6.0\Zadacha3_21.csproj.AssemblyReference.cache
+C:\Users\Юджин\Desktop\Все по C#\DZ\Zadacha3_21\obj\Debug\net6.0\Zadacha3_21.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Юджин\Desktop\Все по C#\DZ\Zadacha3_21\obj\Debug\net6.0\Zadacha3_21.AssemblyInfoInputs.cache
+C:\Users\Юджин\Desktop\Все по C#\DZ\Zadacha3_21\obj\Debug\net6.0\Zadacha3_21.AssemblyInfo.cs
+C:\Users\Юджин\Desktop\Все по C#\DZ\Zadacha3_21\obj\Debug\net6.0\Zadacha3_21.csproj.CoreCompileInputs.cache
+C:\Users\Юджин\Desktop\Все по C#\DZ\Zadacha3_21\bin\Debug\net6.0\Zadacha3_21.exe
+C:\Users\Юджин\Desktop\Все по C#\DZ\Zadacha3_21\bin\Debug\net6.0\Zadacha3_21.deps.json
+C:\Users\Юджин\Desktop\Все по C#\DZ\Zadacha3_21\bin\Debug\net6.0\Zadacha3_21.runtimeconfig.json
+C:\Users\Юджин\Desktop\Все по C#\DZ\Zadacha3_21\bin\Debug\net6.0\Zadacha3_21.dll
+C:\Users\Юджин\Desktop\Все по C#\DZ\Zadacha3_21\bin\Debug\net6.0\Zadacha3_21.pdb
+C:\Users\Юджин\Desktop\Все по C#\DZ\Zadacha3_21\obj\Debug\net6.0\Zadacha3_21.dll
+C:\Users\Юджин\Desktop\Все по C#\DZ\Zadacha3_21\obj\Debug\net6.0\refint\Zadacha3_21.dll
+C:\Users\Юджин\Desktop\Все по C#\DZ\Zadacha3_21\obj\Debug\net6.0\Zadacha3_21.pdb
+C:\Users\Юджин\Desktop\Все по C#\DZ\Zadacha3_21\obj\Debug\net6.0\Zadacha3_21.genruntimeconfig.cache
+C:\Users\Юджин\Desktop\Все по C#\DZ\Zadacha3_21\obj\Debug\net6.0\ref\Zadacha3_21.dll

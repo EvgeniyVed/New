@@ -1,0 +1,15 @@
+C:\Users\Юджин\Desktop\Все по C#\DZ\Zadacha4_25\bin\Debug\net6.0\Zadacha4_25.exe
+C:\Users\Юджин\Desktop\Все по C#\DZ\Zadacha4_25\bin\Debug\net6.0\Zadacha4_25.deps.json
+C:\Users\Юджин\Desktop\Все по C#\DZ\Zadacha4_25\bin\Debug\net6.0\Zadacha4_25.runtimeconfig.json
+C:\Users\Юджин\Desktop\Все по C#\DZ\Zadacha4_25\bin\Debug\net6.0\Zadacha4_25.dll
+C:\Users\Юджин\Desktop\Все по C#\DZ\Zadacha4_25\bin\Debug\net6.0\Zadacha4_25.pdb
+C:\Users\Юджин\Desktop\Все по C#\DZ\Zadacha4_25\obj\Debug\net6.0\Zadacha4_25.csproj.AssemblyReference.cache
+C:\Users\Юджин\Desktop\Все по C#\DZ\Zadacha4_25\obj\Debug\net6.0\Zadacha4_25.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Юджин\Desktop\Все по C#\DZ\Zadacha4_25\obj\Debug\net6.0\Zadacha4_25.AssemblyInfoInputs.cache
+C:\Users\Юджин\Desktop\Все по C#\DZ\Zadacha4_25\obj\Debug\net6.0\Zadacha4_25.AssemblyInfo.cs
+C:\Users\Юджин\Desktop\Все по C#\DZ\Zadacha4_25\obj\Debug\net6.0\Zadacha4_25.csproj.CoreCompileInputs.cache
+C:\Users\Юджин\Desktop\Все по C#\DZ\Zadacha4_25\obj\Debug\net6.0\Zadacha4_25.dll
+C:\Users\Юджин\Desktop\Все по C#\DZ\Zadacha4_25\obj\Debug\net6.0\refint\Zadacha4_25.dll
+C:\Users\Юджин\Desktop\Все по C#\DZ\Zadacha4_25\obj\Debug\net6.0\Zadacha4_25.pdb
+C:\Users\Юджин\Desktop\Все по C#\DZ\Zadacha4_25\obj\Debug\net6.0\Zadacha4_25.genruntimeconfig.cache
+C:\Users\Юджин\Desktop\Все по C#\DZ\Zadacha4_25\obj\Debug\net6.0\ref\Zadacha4_25.dll

@@ -1,0 +1,15 @@
+C:\Users\Юджин\Desktop\Все по C#\DZ\Zadacha7_50\bin\Debug\net6.0\Zadacha7_50.exe
+C:\Users\Юджин\Desktop\Все по C#\DZ\Zadacha7_50\bin\Debug\net6.0\Zadacha7_50.deps.json
+C:\Users\Юджин\Desktop\Все по C#\DZ\Zadacha7_50\bin\Debug\net6.0\Zadacha7_50.runtimeconfig.json
+C:\Users\Юджин\Desktop\Все по C#\DZ\Zadacha7_50\bin\Debug\net6.0\Zadacha7_50.dll
+C:\Users\Юджин\Desktop\Все по C#\DZ\Zadacha7_50\bin\Debug\net6.0\Zadacha7_50.pdb
+C:\Users\Юджин\Desktop\Все по C#\DZ\Zadacha7_50\obj\Debug\net6.0\Zadacha7_50.csproj.AssemblyReference.cache
+C:\Users\Юджин\Desktop\Все по C#\DZ\Zadacha7_50\obj\Debug\net6.0\Zadacha7_50.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Юджин\Desktop\Все по C#\DZ\Zadacha7_50\obj\Debug\net6.0\Zadacha7_50.AssemblyInfoInputs.cache
+C:\Users\Юджин\Desktop\Все по C#\DZ\Zadacha7_50\obj\Debug\net6.0\Zadacha7_50.AssemblyInfo.cs
+C:\Users\Юджин\Desktop\Все по C#\DZ\Zadacha7_50\obj\Debug\net6.0\Zadacha7_50.csproj.CoreCompileInputs.cache
+C:\Users\Юджин\Desktop\Все по C#\DZ\Zadacha7_50\obj\Debug\net6.0\Zadacha7_50.dll
+C:\Users\Юджин\Desktop\Все по C#\DZ\Zadacha7_50\obj\Debug\net6.0\refint\Zadacha7_50.dll
+C:\Users\Юджин\Desktop\Все по C#\DZ\Zadacha7_50\obj\Debug\net6.0\Zadacha7_50.pdb
+C:\Users\Юджин\Desktop\Все по C#\DZ\Zadacha7_50\obj\Debug\net6.0\Zadacha7_50.genruntimeconfig.cache
+C:\Users\Юджин\Desktop\Все по C#\DZ\Zadacha7_50\obj\Debug\net6.0\ref\Zadacha7_50.dll
